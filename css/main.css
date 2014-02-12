@@ -53,6 +53,12 @@ nav a.current::before{
     content: ">" 
 }
 
+main h1, main h2{
+    color: #0264ad;
+    font-family: "Bitter";
+    font-weight: 600;
+}
+
 hr {
     width: 250px;
     margin-left: 0px;
