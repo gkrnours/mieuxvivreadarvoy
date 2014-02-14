@@ -9,8 +9,8 @@ section header {
     position: relative;
     height: 240px; width: 1200px;
     margin: auto; padding: 20px;
-    background: url('../img/bann.jpg') no-repeat left;
-    background-size: auto 240px;
+    background: url('/img/bann.jpg') no-repeat left;
+    background-size: 1280px 240px;
 }
 section main {
     width: 700px;
@@ -53,10 +53,18 @@ nav a.current::before{
     content: ">" 
 }
 
-main h1, main h2{
+main h1, main h2, main h6{
     color: #0264ad;
     font-family: "Bitter";
     font-weight: 600;
+}
+main h6{
+    text-align: center;
+}
+main address.signature{
+    text-align: right;
+    font-style: normal;
+    font-weight: bold;
 }
 
 hr {
@@ -72,3 +80,7 @@ pre code{
     display: block;
 }
 
+.left{
+    float: left;
+    margin: 20px; margin-left: 0px;
+}
