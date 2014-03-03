@@ -84,3 +84,25 @@ pre code{
     float: left;
     margin: 20px; margin-left: 0px;
 }
+
+/* la liste */
+ul {
+    padding: 0px;
+    margin: 0 -40px;
+}
+ul li{
+    display: inline-block;
+    text-decoration: none;
+    vertical-align: top;
+}
+ul li p{
+    font-size: 12px;
+    white-space: pre-wrap;
+    text-align: center;
+}
+ul li p img{
+    width: 130px;
+}
+ul li #spacer{
+    width: 70px;
+}
