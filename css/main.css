@@ -53,13 +53,17 @@ nav a.current::before{
     content: ">" 
 }
 
-main h1, main h2, main h6{
+main h1, main h2, main h3, main h4, main h5, main h6{
+    margin: 8px 0 0;
     color: #0264ad;
     font-family: "Bitter";
     font-weight: 600;
 }
-main h6{
+main h3, main h5{
     text-align: center;
+}
+main h4{
+    font-size: 1.1em;
 }
 main address.signature{
     text-align: right;
@@ -84,25 +88,35 @@ pre code{
     float: left;
     margin: 20px; margin-left: 0px;
 }
+.small{
+    width: 150px;
+}
+.extra{
+    font-size: 110%;
+}
+
+ul li{
+    margin: 0;
+}
 
 /* la liste */
-ul {
+#liste ul {
     padding: 0px;
     margin: 0 -40px;
 }
-ul li{
+#liste ul li{
     display: inline-block;
     text-decoration: none;
     vertical-align: top;
 }
-ul li p{
+#liste ul li p{
     font-size: 12px;
     white-space: pre-wrap;
     text-align: center;
 }
-ul li p img{
+#liste ul li p img{
     width: 130px;
 }
-ul li #spacer{
+#liste ul li #spacer{
     width: 70px;
 }

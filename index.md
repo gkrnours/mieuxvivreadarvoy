@@ -3,7 +3,7 @@ layout: default
 title: Mieux Vivre à Darvoy - la liste
 ---
 
-<img class="left" src="/img/thierry.jpg">
+<img class="left small" src="/img/thierry.jpg">
 
 **Aux habitants de Darvoy**,
 
@@ -26,8 +26,10 @@ véritable volonté de proximité, d’ouverture et de transparence.
 **Je conduirai une liste entourée de femmes et d’hommes, disponibles, 
 de sensibilités diverses et fédérés autour d’un projet commun :**
 
-###### « MIEUX VIVRE À DARVOY »
+##### « MIEUX VIVRE À DARVOY »
 
 <address class="signature">Thierry BASSAÏSTEGUY</address>
 
 ![Les membres de la liste](/img/groupe.jpg)
+
+![coupure de presse](/img/article.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Mieux Vivre à Darvoy - la liste
+id: liste
 ---
-
 * ![Thierry Bassaïsteguy](/img/thierry.jpg)
   Thierry BASSAÏSTEGUY
   50 ans &ndash; 4 enfants
